@@ -1,0 +1,104 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "excalidraw-video-pipeline",
+  "elements": [
+    {
+      "id": "rect1",
+      "type": "rectangle",
+      "x": 100,
+      "y": 100,
+      "width": 300,
+      "height": 200,
+      "strokeColor": "#1e88e5",
+      "backgroundColor": "#e3f2fd",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "roughness": 1,
+      "opacity": 100
+    },
+    {
+      "id": "circle1",
+      "type": "ellipse",
+      "x": 500,
+      "y": 150,
+      "width": 150,
+      "height": 150,
+      "strokeColor": "#43a047",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 3,
+      "roughness": 1,
+      "opacity": 100
+    },
+    {
+      "id": "arrow1",
+      "type": "arrow",
+      "x": 400,
+      "y": 200,
+      "width": 100,
+      "height": 0,
+      "points": [[0, 0], [100, 0]],
+      "strokeColor": "#f4511e",
+      "strokeWidth": 2,
+      "roughness": 0,
+      "opacity": 100
+    },
+    {
+      "id": "text1",
+      "type": "text",
+      "x": 200,
+      "y": 400,
+      "width": 400,
+      "height": 50,
+      "text": "Excalidraw to YouTube!",
+      "fontSize": 36,
+      "fontFamily": "Virgil",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 31
+    },
+    {
+      "id": "freedraw1",
+      "type": "freedraw",
+      "x": 100,
+      "y": 500,
+      "width": 200,
+      "height": 100,
+      "points": [
+        [0, 50],
+        [20, 30],
+        [40, 35],
+        [60, 45],
+        [80, 40],
+        [100, 30],
+        [120, 35],
+        [140, 45],
+        [160, 40],
+        [180, 30],
+        [200, 50]
+      ],
+      "strokeColor": "#9c27b0",
+      "strokeWidth": 3,
+      "roughness": 0,
+      "opacity": 100
+    },
+    {
+      "id": "line1",
+      "type": "line",
+      "x": 50,
+      "y": 350,
+      "width": 700,
+      "height": 0,
+      "points": [[0, 0], [700, 0]],
+      "strokeColor": "#666666",
+      "strokeWidth": 1,
+      "roughness": 0,
+      "opacity": 100
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": 20
+  }
+}

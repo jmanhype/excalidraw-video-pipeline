@@ -1,0 +1,1776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" 
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect width="1920" height="1080" fill="white"/>
+    <g id="animation-container">
+        <g id="text-title">
+            <text x="400" y="50" font-size="48" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    H
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.010909090909090908s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    w
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.021818181818181816s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.03272727272727272s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    C
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.04363636363636363s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    l
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.05454545454545454s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.06545454545454545s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    u
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.07636363636363636s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.08727272727272727s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.09818181818181818s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.10909090909090909s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    C
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.12s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.1309090909090909s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.14181818181818182s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.1527272727272727s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.16363636363636364s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    P
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.17454545454545453s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.18545454545454543s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    w
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.19636363636363635s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.20727272727272725s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.21818181818181817s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    s
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.22909090909090907s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.24s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    E
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.2509090909090909s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    v
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.2618181818181818s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.2727272727272727s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.28363636363636363s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    y
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.2945454545454545s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    t
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.3054545454545454s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    h
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.31636363636363635s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.32727272727272727s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    n
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.33818181818181814s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    g
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.34909090909090906s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="rect-user-box">
+            <!-- Progressive stroke -->
+            <rect x="100" y="200" width="200" height="100" 
+                  stroke="#4caf50" stroke-width="2" fill="none"
+                  stroke-dasharray="600" stroke-dashoffset="600">
+                <animate attributeName="stroke-dashoffset" 
+                         from="600" to="0"
+                         begin="0.36s" dur="0.36s" fill="freeze"/>
+            </rect>
+            <!-- Fill animation -->
+            
+            <rect x="100" y="200" width="200" height="100" 
+                  fill="#e8f5e9" opacity="0">
+                <animate attributeName="opacity" 
+                         from="0" to="0.5"
+                         begin="0.612s" 
+                         dur="0.108s" fill="freeze"/>
+            </rect>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="0.36s" fill="freeze">
+                    <mpath href="#rect-path-user-box"/>
+                </animateMotion>
+            </circle>
+            <path id="rect-path-user-box" 
+                  d="M 100 200 L 300 200 L 300 300 L 100 300 Z" 
+                  fill="none"/>
+        </g>
+        <g id="text-user-label">
+            <text x="150" y="235" font-size="24" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    U
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.71s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    s
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.746s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.7819999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.818s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.854s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    I
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.8899999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    n
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.9259999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    p
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.962s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    u
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="0.998s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    t
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="1.0339999999999998s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="line-arrow1">
+            <path d="M 300 250 L 450 250" stroke="#ff6b6b" stroke-width="2" fill="none"
+                  stroke-dasharray="150" stroke-dashoffset="150">
+                <animate attributeName="stroke-dashoffset" 
+                         from="150" to="0"
+                         begin="1.07s" dur="0.36s" fill="freeze"/>
+            </path>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="1.07s" fill="freeze" 
+                               path="M 300 250 L 450 250"/>
+            </circle>
+        </g>
+        <g id="ellipse-claude-box">
+            <ellipse cx="575" cy="250" rx="125" ry="50" 
+                     stroke="#9c27b0" stroke-width="2" fill="none"
+                     stroke-dasharray="575.3203078801891" stroke-dashoffset="575.3203078801891">
+                <animate attributeName="stroke-dashoffset" 
+                         from="575.3203078801891" to="0"
+                         begin="1.43s" dur="0.36s" fill="freeze"/>
+            </ellipse>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="1.43s" fill="freeze" 
+                               path="M 700 250 A 125 50 0 1 1 700 249.99"/>
+            </circle>
+        </g>
+        <g id="text-claude-label">
+            <text x="500" y="235" font-size="24" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    C
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="1.79s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    l
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="1.8227272727272728s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="1.8554545454545455s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    u
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="1.8881818181818182s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="1.920909090909091s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="1.9536363636363636s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="1.9863636363636363s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    C
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="2.019090909090909s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="2.0518181818181818s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="2.0845454545454545s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="2.117272727272727s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="line-arrow2">
+            <path d="M 700 250 L 850 250" stroke="#ff6b6b" stroke-width="2" fill="none"
+                  stroke-dasharray="150" stroke-dashoffset="150">
+                <animate attributeName="stroke-dashoffset" 
+                         from="150" to="0"
+                         begin="2.14s" dur="0.36s" fill="freeze"/>
+            </path>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="2.14s" fill="freeze" 
+                               path="M 700 250 L 850 250"/>
+            </circle>
+        </g>
+        <g id="rect-excalidraw-box">
+            <!-- Progressive stroke -->
+            <rect x="850" y="200" width="200" height="100" 
+                  stroke="#ff9800" stroke-width="2" fill="none"
+                  stroke-dasharray="600" stroke-dashoffset="600">
+                <animate attributeName="stroke-dashoffset" 
+                         from="600" to="0"
+                         begin="2.50s" dur="0.36s" fill="freeze"/>
+            </rect>
+            <!-- Fill animation -->
+            
+            <rect x="850" y="200" width="200" height="100" 
+                  fill="#fff3e0" opacity="0">
+                <animate attributeName="opacity" 
+                         from="0" to="0.5"
+                         begin="2.752s" 
+                         dur="0.108s" fill="freeze"/>
+            </rect>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="2.50s" fill="freeze">
+                    <mpath href="#rect-path-excalidraw-box"/>
+                </animateMotion>
+            </circle>
+            <path id="rect-path-excalidraw-box" 
+                  d="M 850 200 L 1050 200 L 1050 300 L 850 300 Z" 
+                  fill="none"/>
+        </g>
+        <g id="text-excalidraw-label">
+            <text x="880" y="235" font-size="24" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    E
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="2.86s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    x
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="2.896s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    c
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="2.932s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="2.968s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    l
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.004s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.04s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.0759999999999996s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.112s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.1479999999999997s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    w
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.1839999999999997s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="line-arrow3">
+            <path d="M 1050 250 L 1200 250" stroke="#ff6b6b" stroke-width="2" fill="none"
+                  stroke-dasharray="150" stroke-dashoffset="150">
+                <animate attributeName="stroke-dashoffset" 
+                         from="150" to="0"
+                         begin="3.21s" dur="0.36s" fill="freeze"/>
+            </path>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="3.21s" fill="freeze" 
+                               path="M 1050 250 L 1200 250"/>
+            </circle>
+        </g>
+        <g id="rect-svg-box">
+            <!-- Progressive stroke -->
+            <rect x="1200" y="200" width="200" height="100" 
+                  stroke="#2196f3" stroke-width="2" fill="none"
+                  stroke-dasharray="600" stroke-dashoffset="600">
+                <animate attributeName="stroke-dashoffset" 
+                         from="600" to="0"
+                         begin="3.57s" dur="0.36s" fill="freeze"/>
+            </rect>
+            <!-- Fill animation -->
+            
+            <rect x="1200" y="200" width="200" height="100" 
+                  fill="#e3f2fd" opacity="0">
+                <animate attributeName="opacity" 
+                         from="0" to="0.5"
+                         begin="3.822s" 
+                         dur="0.108s" fill="freeze"/>
+            </rect>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="3.57s" fill="freeze">
+                    <mpath href="#rect-path-svg-box"/>
+                </animateMotion>
+            </circle>
+            <path id="rect-path-svg-box" 
+                  d="M 1200 200 L 1400 200 L 1400 300 L 1200 300 Z" 
+                  fill="none"/>
+        </g>
+        <g id="text-svg-label">
+            <text x="1210" y="235" font-size="24" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    A
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.93s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    n
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.96s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="3.99s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    m
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.0200000000000005s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.05s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    t
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.08s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.11s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.140000000000001s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.17s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    S
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.2s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    V
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.23s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    G
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="4.26s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="line-arrow4">
+            <path d="M 1400 250 L 1550 250" stroke="#ff6b6b" stroke-width="2" fill="none"
+                  stroke-dasharray="150" stroke-dashoffset="150">
+                <animate attributeName="stroke-dashoffset" 
+                         from="150" to="0"
+                         begin="4.29s" dur="0.36s" fill="freeze"/>
+            </path>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="4.29s" fill="freeze" 
+                               path="M 1400 250 L 1550 250"/>
+            </circle>
+        </g>
+        <g id="ellipse-youtube-box">
+            <ellipse cx="1675" cy="250" rx="125" ry="50" 
+                     stroke="#f44336" stroke-width="2" fill="none"
+                     stroke-dasharray="575.3203078801891" stroke-dashoffset="575.3203078801891">
+                <animate attributeName="stroke-dashoffset" 
+                         from="575.3203078801891" to="0"
+                         begin="4.64s" dur="0.36s" fill="freeze"/>
+            </ellipse>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="4.64s" fill="freeze" 
+                               path="M 1800 250 A 125 50 0 1 1 1800 249.99"/>
+            </circle>
+        </g>
+        <g id="text-youtube-label">
+            <text x="1600" y="235" font-size="24" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    Y
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="5s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="5.051428571428572s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    u
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="5.102857142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    T
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="5.154285714285714s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    u
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="5.2057142857142855s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    b
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="5.257142857142857s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="5.308571428571429s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="freedraw-process-flow">
+            <path d="M 200 400 L 300 395 L 400 390 L 500 385 L 600 380 L 700 375 L 800 370 L 900 365 L 1000 360 L 1100 365 L 1200 370 L 1300 375 L 1400 380 L 1500 385 L 1600 390 L 1700 395" stroke="#00bcd4" stroke-width="2" fill="none"
+                  stroke-linecap="round" stroke-linejoin="round"
+                  stroke-dasharray="1501.8738295875587" stroke-dashoffset="1501.8738295875587">
+                <animate attributeName="stroke-dashoffset" 
+                         from="1501.8738295875587" to="0"
+                         begin="5.36s" dur="0.36s" fill="freeze"/>
+            </path>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="5.36s" fill="freeze" 
+                               path="M 200 400 L 300 395 L 400 390 L 500 385 L 600 380 L 700 375 L 800 370 L 900 365 L 1000 360 L 1100 365 L 1200 370 L 1300 375 L 1400 380 L 1500 385 L 1600 390 L 1700 395"/>
+            </circle>
+        </g>
+        <g id="line-divider">
+            <path d="M 100 450 L 1800 450" stroke="#9e9e9e" stroke-width="2" fill="none"
+                  stroke-dasharray="1700" stroke-dashoffset="1700">
+                <animate attributeName="stroke-dashoffset" 
+                         from="1700" to="0"
+                         begin="5.71s" dur="0.36s" fill="freeze"/>
+            </path>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="5.71s" fill="freeze" 
+                               path="M 100 450 L 1800 450"/>
+            </circle>
+        </g>
+        <g id="text-features-title">
+            <text x="700" y="500" font-size="36" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    ✨
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.07s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.0925s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    K
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.115s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.1375s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    y
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.16s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.1825s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    F
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.205s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.2275s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.25s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    t
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.2725s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    u
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.295s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.3175s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.34s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    s
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.362500000000001s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.385000000000001s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    ✨
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.407500000000001s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="rect-feature1">
+            <!-- Progressive stroke -->
+            <rect x="200" y="580" width="350" height="80" 
+                  stroke="#4caf50" stroke-width="2" fill="none"
+                  stroke-dasharray="860" stroke-dashoffset="860">
+                <animate attributeName="stroke-dashoffset" 
+                         from="860" to="0"
+                         begin="6.43s" dur="0.36s" fill="freeze"/>
+            </rect>
+            <!-- Fill animation -->
+            
+            <rect x="200" y="580" width="350" height="80" 
+                  fill="#c8e6c9" opacity="0">
+                <animate attributeName="opacity" 
+                         from="0" to="0.5"
+                         begin="6.6819999999999995s" 
+                         dur="0.108s" fill="freeze"/>
+            </rect>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="6.43s" fill="freeze">
+                    <mpath href="#rect-path-feature1"/>
+                </animateMotion>
+            </circle>
+            <path id="rect-path-feature1" 
+                  d="M 200 580 L 550 580 L 550 660 L 200 660 Z" 
+                  fill="none"/>
+        </g>
+        <g id="text-feature1-text">
+            <text x="230" y="605" font-size="20" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    P
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.79s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.807142857142857s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.824285714285715s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    g
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.841428571428572s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.8585714285714285s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.8757142857142854s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    s
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.892857142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    s
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.91s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.927142857142857s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    v
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.944285714285714s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.961428571428572s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.978571428571429s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    A
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="6.9957142857142856s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    n
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.012857142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.03s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    m
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.047142857142857s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.064285714285714s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    t
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.081428571428572s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.098571428571429s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.115714285714286s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    n
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.132857142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="rect-feature2">
+            <!-- Progressive stroke -->
+            <rect x="600" y="580" width="350" height="80" 
+                  stroke="#2196f3" stroke-width="2" fill="none"
+                  stroke-dasharray="860" stroke-dashoffset="860">
+                <animate attributeName="stroke-dashoffset" 
+                         from="860" to="0"
+                         begin="7.14s" dur="0.36s" fill="freeze"/>
+            </rect>
+            <!-- Fill animation -->
+            
+            <rect x="600" y="580" width="350" height="80" 
+                  fill="#bbdefb" opacity="0">
+                <animate attributeName="opacity" 
+                         from="0" to="0.5"
+                         begin="7.3919999999999995s" 
+                         dur="0.108s" fill="freeze"/>
+            </rect>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="7.14s" fill="freeze">
+                    <mpath href="#rect-path-feature2"/>
+                </animateMotion>
+            </circle>
+            <path id="rect-path-feature2" 
+                  d="M 600 580 L 950 580 L 950 660 L 600 660 Z" 
+                  fill="none"/>
+        </g>
+        <g id="text-feature2-text">
+            <text x="630" y="605" font-size="20" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.5s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.524s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.548s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    -
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.572s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    s
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.596s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    h
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.62s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.644s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.668s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    M
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.692s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.716s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    t
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.74s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    h
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.764s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.788s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.812s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    s
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="7.836s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="rect-feature3">
+            <!-- Progressive stroke -->
+            <rect x="1000" y="580" width="350" height="80" 
+                  stroke="#ff9800" stroke-width="2" fill="none"
+                  stroke-dasharray="860" stroke-dashoffset="860">
+                <animate attributeName="stroke-dashoffset" 
+                         from="860" to="0"
+                         begin="7.86s" dur="0.36s" fill="freeze"/>
+            </rect>
+            <!-- Fill animation -->
+            
+            <rect x="1000" y="580" width="350" height="80" 
+                  fill="#ffe0b2" opacity="0">
+                <animate attributeName="opacity" 
+                         from="0" to="0.5"
+                         begin="8.112s" 
+                         dur="0.108s" fill="freeze"/>
+            </rect>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="7.86s" fill="freeze">
+                    <mpath href="#rect-path-feature3"/>
+                </animateMotion>
+            </circle>
+            <path id="rect-path-feature3" 
+                  d="M 1000 580 L 1350 580 L 1350 660 L 1000 660 Z" 
+                  fill="none"/>
+        </g>
+        <g id="text-feature3-text">
+            <text x="1030" y="605" font-size="20" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    Y
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.21s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.237692307692308s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    u
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.265384615384617s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    T
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.293076923076924s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    u
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.320769230769232s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    b
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.348461538461539s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.376153846153848s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.403846153846155s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    R
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.431538461538462s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.45923076923077s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    a
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.486923076923079s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.514615384615386s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    y
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.542307692307693s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="rect-feature4">
+            <!-- Progressive stroke -->
+            <rect x="1400" y="580" width="350" height="80" 
+                  stroke="#e91e63" stroke-width="2" fill="none"
+                  stroke-dasharray="860" stroke-dashoffset="860">
+                <animate attributeName="stroke-dashoffset" 
+                         from="860" to="0"
+                         begin="8.57s" dur="0.36s" fill="freeze"/>
+            </rect>
+            <!-- Fill animation -->
+            
+            <rect x="1400" y="580" width="350" height="80" 
+                  fill="#fce4ec" opacity="0">
+                <animate attributeName="opacity" 
+                         from="0" to="0.5"
+                         begin="8.822000000000001s" 
+                         dur="0.108s" fill="freeze"/>
+            </rect>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="8.57s" fill="freeze">
+                    <mpath href="#rect-path-feature4"/>
+                </animateMotion>
+            </circle>
+            <path id="rect-path-feature4" 
+                  d="M 1400 580 L 1750 580 L 1750 660 L 1400 660 Z" 
+                  fill="none"/>
+        </g>
+        <g id="text-feature4-text">
+            <text x="1430" y="605" font-size="20" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    Z
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.93s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.953999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="8.978s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    o
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.001999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.026s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    M
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.049999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    C
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.074s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    P
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.097999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.122s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    N
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.145999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.17s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.193999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.218s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.241999999999999s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    d
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.266s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <g id="freedraw-celebration">
+            <path d="M 950 700 L 940 710 L 960 710 L 945 720 L 955 720 L 950 730 L 930 740 L 970 740 L 920 750 L 980 750 L 910 760 L 990 760 L 900 770 L 1000 770 L 890 780 L 1010 780 L 880 790 L 1020 790 L 870 800 L 1030 800 L 860 810 L 1040 810 L 850 820 L 1050 820" stroke="#ffc107" stroke-width="2" fill="none"
+                  stroke-linecap="round" stroke-linejoin="round"
+                  stroke-dasharray="2139.6930979228277" stroke-dashoffset="2139.6930979228277">
+                <animate attributeName="stroke-dashoffset" 
+                         from="2139.6930979228277" to="0"
+                         begin="9.29s" dur="0.36s" fill="freeze"/>
+            </path>
+            <!-- Pointer -->
+            <circle r="5" fill="red">
+                <animateMotion dur="0.36s" begin="9.29s" fill="freeze" 
+                               path="M 950 700 L 940 710 L 960 710 L 945 720 L 955 720 L 950 730 L 930 740 L 970 740 L 920 750 L 980 750 L 910 760 L 990 760 L 900 770 L 1000 770 L 890 780 L 1010 780 L 880 790 L 1020 790 L 870 800 L 1030 800 L 860 810 L 1040 810 L 850 820 L 1050 820"/>
+            </circle>
+        </g>
+        <g id="text-final-message">
+            <text x="600" y="900" font-size="42" font-family="Virgil" fill="black">
+                
+                <tspan opacity="0">
+                    �
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.64s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    �
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.650285714285715s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.66057142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    T
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.670857142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    h
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.681142857142857s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.691428571428572s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.701714285714287s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    E
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.712s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    v
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.722285714285714s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.732571428571429s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    r
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.742857142857144s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    y
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.753142857142858s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    t
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.763428571428571s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    h
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.773714285714286s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.784s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    n
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.794285714285715s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    g
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.804571428571428s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.814857142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    A
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.825142857142858s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    g
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.835428571428572s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    e
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.845714285714287s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    n
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.856s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    t
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.866285714285715s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.87657142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    i
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.886857142857144s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    s
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.897142857142857s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.907428571428571s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    H
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.917714285714286s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    E
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.928s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    R
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.938285714285715s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    E
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.948571428571428s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    !
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.958857142857143s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                     
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.969142857142858s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    �
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.979428571428572s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+                <tspan opacity="0">
+                    �
+                    <animate attributeName="opacity" 
+                             from="0" to="1"
+                             begin="9.989714285714287s" 
+                             dur="0.1s" fill="freeze"/>
+                </tspan>
+            </text>
+        </g>
+        <rect x="0" y="1060" width="1920" height="20" fill="#f0f0f0"/>
+        <rect x="0" y="1060" width="0" height="20" fill="#4CAF50">
+            <animate attributeName="width" from="0" to="1920" 
+                     dur="10s" fill="freeze"/>
+        </rect>
+        <text x="10" y="1075" font-size="12" fill="black">Progress</text>
+    </g>
+</svg>

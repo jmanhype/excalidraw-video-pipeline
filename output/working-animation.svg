@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="960" y="100" text-anchor="middle" font-size="48" font-weight="bold" fill="#333">
+    Real Progressive Animation - WORKING
+  </text>
+  
+  <!-- 1. Progressive Rectangle Stroke -->
+  <g transform="translate(200, 200)">
+    <text x="0" y="-20" font-size="24" fill="#666">1. Rectangle (Progressive Stroke + Fill)</text>
+    <rect x="0" y="0" width="400" height="200" stroke="#0066ff" stroke-width="4" fill="none" 
+          stroke-dasharray="1200" stroke-dashoffset="1200">
+      <animate attributeName="stroke-dashoffset" 
+               from="1200" to="0" 
+               begin="0.5s" dur="1.5s" 
+               fill="freeze"/>
+    </rect>
+    <rect x="0" y="0" width="400" height="200" fill="#0066ff" opacity="0">
+      <animate attributeName="opacity" 
+               from="0" to="0.2" 
+               begin="2s" dur="0.5s" 
+               fill="freeze"/>
+    </rect>
+    <!-- Pointer -->
+    <circle r="8" fill="#ff0000">
+      <animateMotion path="M 0,0 L 400,0 L 400,200 L 0,200 Z" 
+                     begin="0.5s" dur="1.5s" 
+                     rotate="auto"/>
+      <animate attributeName="opacity" 
+               values="0;1;1;0" 
+               begin="0s" dur="2.5s"/>
+    </circle>
+  </g>
+  
+  <!-- 2. Progressive Circle -->
+  <g transform="translate(800, 200)">
+    <text x="100" y="-20" font-size="24" fill="#666">2. Circle (Progressive Path)</text>
+    <circle cx="100" cy="100" r="80" stroke="#00cc66" stroke-width="4" fill="none"
+            stroke-dasharray="502" stroke-dashoffset="502">
+      <animate attributeName="stroke-dashoffset" 
+               from="502" to="0" 
+               begin="2.5s" dur="1.5s" 
+               fill="freeze"/>
+    </circle>
+    <!-- Pointer -->
+    <circle r="8" fill="#ff0000">
+      <animateMotion path="M 180,100 A 80,80 0 1,1 179.9,100" 
+                     begin="2.5s" dur="1.5s" 
+                     rotate="auto"/>
+      <animate attributeName="opacity" 
+               values="0;1;1;0" 
+               begin="2s" dur="2.5s"/>
+    </circle>
+  </g>
+  
+  <!-- 3. Progressive Arrow -->
+  <g transform="translate(200, 500)">
+    <text x="0" y="-20" font-size="24" fill="#666">3. Arrow (Progressive Drawing)</text>
+    <path d="M 0,50 L 300,50 M 280,30 L 300,50 L 280,70" 
+          stroke="#ff6600" stroke-width="4" fill="none"
+          stroke-dasharray="360" stroke-dashoffset="360">
+      <animate attributeName="stroke-dashoffset" 
+               from="360" to="0" 
+               begin="4.5s" dur="1.5s" 
+               fill="freeze"/>
+    </path>
+    <!-- Pointer -->
+    <circle r="8" fill="#ff0000">
+      <animateMotion path="M 0,50 L 300,50" 
+                     begin="4.5s" dur="1s"/>
+      <animate attributeName="opacity" 
+               values="0;1;1;0" 
+               begin="4s" dur="2.5s"/>
+    </circle>
+  </g>
+  
+  <!-- 4. Text Typing Animation -->
+  <g transform="translate(800, 500)">
+    <text x="0" y="-20" font-size="24" fill="#666">4. Text (Typing Effect)</text>
+    <text x="0" y="50" font-size="36" fill="#9933ff" opacity="0">
+      Excalidraw Animation Works!
+      <animate attributeName="opacity" 
+               from="0" to="1" 
+               begin="6.5s" dur="0.1s" 
+               fill="freeze"/>
+    </text>
+    <rect x="0" y="20" width="500" height="40" fill="#f8f9fa">
+      <animate attributeName="width" 
+               from="500" to="0" 
+               begin="6.5s" dur="2s" 
+               fill="freeze"/>
+    </rect>
+    <!-- Typing cursor -->
+    <rect x="0" y="20" width="3" height="40" fill="#9933ff">
+      <animate attributeName="x" 
+               from="0" to="500" 
+               begin="6.5s" dur="2s"/>
+      <animate attributeName="opacity" 
+               values="0;1;0;1;0;1;0" 
+               begin="6.5s" dur="2s"/>
+    </rect>
+  </g>
+  
+  <!-- 5. Freedraw Progressive Path -->
+  <g transform="translate(200, 750)">
+    <text x="0" y="-20" font-size="24" fill="#666">5. Freedraw (Point-by-Point)</text>
+    <path d="M 0,0 Q 50,30 100,20 T 200,40 Q 250,50 300,30" 
+          stroke="#ff00ff" stroke-width="3" fill="none"
+          stroke-dasharray="350" stroke-dashoffset="350">
+      <animate attributeName="stroke-dashoffset" 
+               from="350" to="0" 
+               begin="8.5s" dur="1.5s" 
+               fill="freeze"/>
+    </path>
+    <!-- Pointer -->
+    <circle r="6" fill="#ff0000">
+      <animateMotion path="M 0,0 Q 50,30 100,20 T 200,40 Q 250,50 300,30" 
+                     begin="8.5s" dur="1.5s"/>
+      <animate attributeName="opacity" 
+               values="0;1;1;0" 
+               begin="8s" dur="2.5s"/>
+    </circle>
+  </g>
+  
+  <!-- Status indicators -->
+  <g transform="translate(50, 950)">
+    <text font-size="20" fill="#28a745" opacity="0">
+      ✓ All dai-shi/excalidraw-animate features working!
+      <animate attributeName="opacity" 
+               from="0" to="1" 
+               begin="10s" dur="0.5s" 
+               fill="freeze"/>
+    </text>
+  </g>
+  
+  <!-- Timeline indicator -->
+  <g transform="translate(50, 1000)">
+    <rect x="0" y="0" width="1820" height="4" fill="#ddd"/>
+    <rect x="0" y="0" width="0" height="4" fill="#007bff">
+      <animate attributeName="width" 
+               from="0" to="1820" 
+               begin="0s" dur="10.5s" 
+               fill="freeze"/>
+    </rect>
+    <text x="0" y="25" font-size="14" fill="#666">0s</text>
+    <text x="1820" y="25" font-size="14" fill="#666">10.5s</text>
+  </g>
+</svg>

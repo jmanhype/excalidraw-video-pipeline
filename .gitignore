@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Output files  
+output/frames/
+*.mp4
+*.gif
+
+# Credentials and tokens
+.youtube-token.json
+google-credentials.json
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+temp/
+.cache/

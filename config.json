@@ -1,0 +1,38 @@
+{
+  "paths": {
+    "input": "./examples/sample-drawings/sample.excalidraw",
+    "output": "./output"
+  },
+  "video": {
+    "width": 1920,
+    "height": 1080
+  },
+  "animation": {
+    "frameRate": 30,
+    "defaultSpeed": 0.75,
+    "outputDir": "./output/frames",
+    "timestampObjects": true
+  },
+  "export": {
+    "outputDir": "./output",
+    "quality": "high",
+    "format": "mp4",
+    "codec": "libx264",
+    "preset": "medium",
+    "crf": 18,
+    "youtubeOptimized": true
+  },
+  "ai": {
+    "model": "claude-sonnet-4",
+    "mcpIntegration": true,
+    "autonomousMode": true,
+    "context7": true
+  },
+  "youtube": {
+    "credentialsPath": "./credentials.json",
+    "tokenPath": "./token.json",
+    "autoUpload": true,
+    "defaultPrivacy": "public",
+    "targetChannel": "@jmanhype1"
+  }
+}

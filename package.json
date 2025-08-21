@@ -1,0 +1,46 @@
+{
+  "name": "excalidraw-video-pipeline",
+  "version": "1.0.0",
+  "description": "Convert Excalidraw drawings into animated YouTube videos using Claude AI",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "build": "node src/build.js",
+    "animate": "node src/animation/index.js",
+    "test": "node --test tests/**/*.test.js"
+  },
+  "keywords": [
+    "excalidraw",
+    "animation",
+    "video",
+    "youtube",
+    "ai",
+    "claude",
+    "autonomous",
+    "content-creation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@excalidraw/excalidraw": "^0.17.0",
+    "excalidraw-animate": "^0.3.0",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^11.2.0",
+    "googleapis": "^144.0.0",
+    "open": "^10.2.0",
+    "puppeteer": "^23.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/excalidraw-video-pipeline.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
