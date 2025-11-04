@@ -6,7 +6,21 @@ import { existsSync, mkdirSync } from 'fs';
 // Set ffmpeg path
 ffmpeg.setFfmpegPath(ffmpegStatic);
 
+/**
+ * Exports animated Excalidraw data to video formats using FFmpeg
+ * @class VideoExporter
+ */
 export class VideoExporter {
+    /**
+     * Create a VideoExporter instance
+     * @param {Object} config - Configuration options
+     * @param {string} [config.outputDir='./output'] - Output directory for videos
+     * @param {string} [config.quality='high'] - Video quality preset
+     * @param {string} [config.format='mp4'] - Output video format
+     * @param {string} [config.codec='libx264'] - Video codec
+     * @param {string} [config.preset='medium'] - FFmpeg encoding preset
+     * @param {number} [config.crf=18] - Constant Rate Factor (lower = higher quality)
+     */
     constructor(config = {}) {
         this.config = {
             outputDir: config.outputDir || './output',
@@ -15,14 +29,36 @@ export class VideoExporter {
             codec: config.codec || 'libx264',
             preset: config.preset || 'medium',
             crf: config.crf || 18, // Lower = higher quality
+            width: config.width || 1920,
+            height: config.height || 1080,
             ...config
         };
-        
+
         // Ensure output directory exists
         mkdirSync(this.config.outputDir, { recursive: true });
     }
 
+    /**
+     * Export animation data to video file
+     * @param {Object} animationData - Animation data from animator
+     * @param {string} [outputFileName='excalidraw-animation.mp4'] - Output filename
+     * @returns {Promise<Object>} Export result with output path and metadata
+     * @throws {Error} If animation data is invalid or export fails
+     */
     async exportVideo(animationData, outputFileName = 'excalidraw-animation.mp4') {
+        // Input validation
+        if (!animationData) {
+            throw new Error('Animation data is required');
+        }
+
+        if (typeof animationData !== 'object') {
+            throw new Error(`Animation data must be an object, got ${typeof animationData}`);
+        }
+
+        if (outputFileName && typeof outputFileName !== 'string') {
+            throw new Error(`Output filename must be a string, got ${typeof outputFileName}`);
+        }
+
         try {
             console.log('🎞️  Starting video export...');
             
@@ -435,6 +471,13 @@ export class VideoExporter {
         });
     }
 
+    /**
+     * Export animation data as an animated GIF
+     * @param {Object} animationData - Animation data from animator
+     * @param {string} [outputFileName='excalidraw-animation.gif'] - Output filename
+     * @returns {Promise<Object>} Export result with output path
+     * @throws {Error} If export fails
+     */
     async createGif(animationData, outputFileName = 'excalidraw-animation.gif') {
         try {
             console.log('🎨 Creating GIF export...');
@@ -493,7 +536,21 @@ export class VideoExporter {
         }
     }
 
+    /**
+     * Get metadata information about a video file
+     * @param {string} filePath - Path to the video file
+     * @returns {Promise<Object>} Video metadata including duration, size, bitrate
+     * @throws {Error} If file doesn't exist or cannot be probed
+     */
     getVideoInfo(filePath) {
+        if (!filePath) {
+            return Promise.reject(new Error('File path is required'));
+        }
+
+        if (!existsSync(filePath)) {
+            return Promise.reject(new Error(`File not found: ${filePath}`));
+        }
+
         return new Promise((resolve, reject) => {
             ffmpeg.ffprobe(filePath, (err, metadata) => {
                 if (err) {
